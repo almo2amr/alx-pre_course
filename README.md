@@ -1,2 +1,2 @@
 My first readme
-README update from githup.com
+README up to date 
